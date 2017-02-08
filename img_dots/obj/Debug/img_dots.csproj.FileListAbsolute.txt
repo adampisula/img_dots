@@ -1,0 +1,9 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\bin\Debug\img_dots.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\bin\Debug\img_dots.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\bin\Debug\img_dots.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\img_dots\img_dots\obj\Debug\img_dots.Form1.resources
