@@ -1,0 +1,8 @@
+/root/Documents/Projects/img_dots/img_dots/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/root/Documents/Projects/img_dots/img_dots/obj/Debug/img_dots.Form1.resources
+/root/Documents/Projects/img_dots/img_dots/obj/Debug/img_dots.Properties.Resources.resources
+/root/Documents/Projects/img_dots/img_dots/bin/Debug/img_dots.exe.config
+/root/Documents/Projects/img_dots/img_dots/bin/Debug/img_dots.pdb
+/root/Documents/Projects/img_dots/img_dots/bin/Debug/img_dots.exe
+/root/Documents/Projects/img_dots/img_dots/obj/Debug/img_dots.exe
+/root/Documents/Projects/img_dots/img_dots/obj/Debug/img_dots.pdb
