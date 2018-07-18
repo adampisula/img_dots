@@ -14,6 +14,6 @@ Your file will be saved in your current directory with name `previous-file-name_
 From
 ![Jewish Culture Festival photo](jewishfestival.jpg?raw=True "Jewish Culture Festival")
 to
-![Jewish Culture Festival photo after my program processed it] (jewishfestival_adampisula.png?raw=True "Jewish Culture Festival")
+![Jewish Culture Festival photo after my program processed it](jewishfestival_adampisula.png?raw=True "Jewish Culture Festival")
 
 (The first photo is not my property, it's Jewish Culture Festival's)
